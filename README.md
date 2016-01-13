@@ -6,7 +6,7 @@ WP Widget Classes is a no-fancy Plugin that allows you to set your own custom CS
 
 **Do I need to make changes in my Theme files?**
 
-No. You don't need to make changes in your Theme files. The Plugin will take care of adding classes automatically.
+No. You don't need to make changes in your Theme files. Plugin will take care of adding classes automatically.
 
 **Will this plugin replace current Widget Classes of my Theme?**
 
